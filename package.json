@@ -1,0 +1,12 @@
+{
+  "name": "space-race-plot-o-meter",
+  "version": "1.0.0",
+  "description": "Space Race Plot-O-Meter for Autonomys Network",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
